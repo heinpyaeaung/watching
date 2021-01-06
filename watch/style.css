@@ -1,0 +1,20 @@
+.main-page{
+    position: relative;
+}
+.first-page{
+    background-image: url('../image/Servicesbg.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.second-page{
+    background-image: url('../image/markus-spiske-iar-afB0QQw-unsplash\ \(1\).jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.contact{
+    position: absolute;
+    bottom: 20px;
+}
